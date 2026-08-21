@@ -1,4 +1,4 @@
 interface:
   display_name: "个人IP背景访谈"
-  short_description: "8月生财航海家账号定位访谈专用 Skill，完成定位与账号包装"
-  default_prompt: "使用 $personal-brand 引导我完成8月生财航海家的账号定位访谈与账号包装。"
+  short_description: "企业老板个人IP定位访谈，兼顾品牌信任与获客成交"
+  default_prompt: "使用 $personal-brand 引导我完成企业老板个人IP定位、内容方向和抖音、小红书、视频号账号包装。"
